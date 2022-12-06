@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atavares2002
 - 👀 I’m interested in UX Design, Front End Development and Marketing Automation
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Front End and Wordpress Projects
 - 📫 How to reach me at [https://atavares.com](https://atavares.com)
 
 <!---
